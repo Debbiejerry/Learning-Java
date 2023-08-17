@@ -31,7 +31,7 @@ public class Person {
 
     // Default constructor
     public Person() {
-        name = "Unknown";
+        name = "Unknown"; 
         age = 0;
     }
     //This block defines a constructor called Person with no parameters. This is the default constructor. It initializes the name variable with the value "Unknown" and the age variable with 0.
