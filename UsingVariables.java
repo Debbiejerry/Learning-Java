@@ -1,3 +1,4 @@
+// class name is UsingVariables
 public class UsingVariables {
     public static void main(String[] args) {
 		String myName = "Ikongshul Deborah Agianiye";
