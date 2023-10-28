@@ -1,5 +1,6 @@
 import java.util.Random;
 
+// class name declaration
 public class RandomNumberGenerator2 {
 	public static void main(String[] args) {
 		int min = 0;
