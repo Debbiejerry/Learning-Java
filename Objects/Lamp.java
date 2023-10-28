@@ -6,7 +6,7 @@ class Lamp {
    // false if light is off
 
    boolean isOn;
-    // method to turn on the light
+    // Method to turn on the light
     void turnOn() {
         isOn = true;
 
